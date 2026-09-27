@@ -1,0 +1,14 @@
+C:\Users\jaime\Mini Challenge #7\bin\Debug\net10.0\Mini Challenge #7.exe
+C:\Users\jaime\Mini Challenge #7\bin\Debug\net10.0\Mini Challenge #7.deps.json
+C:\Users\jaime\Mini Challenge #7\bin\Debug\net10.0\Mini Challenge #7.runtimeconfig.json
+C:\Users\jaime\Mini Challenge #7\bin\Debug\net10.0\Mini Challenge #7.dll
+C:\Users\jaime\Mini Challenge #7\bin\Debug\net10.0\Mini Challenge #7.pdb
+C:\Users\jaime\Mini Challenge #7\obj\Debug\net10.0\Mini Challenge #7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Mini Challenge #7\obj\Debug\net10.0\Mini Challenge #7.AssemblyInfoInputs.cache
+C:\Users\jaime\Mini Challenge #7\obj\Debug\net10.0\Mini Challenge #7.AssemblyInfo.cs
+C:\Users\jaime\Mini Challenge #7\obj\Debug\net10.0\Mini Challenge #7.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Mini Challenge #7\obj\Debug\net10.0\Mini Challenge #7.dll
+C:\Users\jaime\Mini Challenge #7\obj\Debug\net10.0\refint\Mini Challenge #7.dll
+C:\Users\jaime\Mini Challenge #7\obj\Debug\net10.0\Mini Challenge #7.pdb
+C:\Users\jaime\Mini Challenge #7\obj\Debug\net10.0\Mini Challenge #7.genruntimeconfig.cache
+C:\Users\jaime\Mini Challenge #7\obj\Debug\net10.0\ref\Mini Challenge #7.dll
